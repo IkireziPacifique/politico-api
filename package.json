@@ -1,0 +1,13 @@
+{
+  "name": "politico-backend",
+  "version": " ",
+  "main": "index.js",
+  "repository": "https://github.com/IkireziPacifique/politico-backend.git",
+  "author": "IkireziPacifique <p.ikirezi@alustudent.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "save": "^2.4.0"
+  }
+}
