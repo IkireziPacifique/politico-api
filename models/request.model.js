@@ -2,7 +2,7 @@ import Sequelize from 'sequelize'
 import { sequelize } from '../db/dbConnect.js'
 
 const Requests = sequelize.define(
-  'admin',
+  'requests',
   {
     request_id: {
       primaryKey: true,
